@@ -1,1 +1,1 @@
-# Neste mini-projeto sobre filmes,  estudei o básico da construção e fundamentos principais para iniciar um banco de dados utilizando o MySQL, sendo assim fundamental para o meu conhecimento ao entender quais os comandos para poder executar uma função.
+# Neste mini-projeto sobre filmes,  estudei o básico da construção e fundamentos principais para iniciar um banco de dados utilizando o MySQL, sendo assim fundamental para o meu conhecimento ao entender quais os comandos podem executar as funções dentro do programa MySQL Workbench.
