@@ -1,0 +1,1 @@
+# Neste mini-projeto estudei o básico da construção e fundamentos principais para iniciar um banco de dados utilizando o MySQL, sendo assim fundamental para o meu conhecimento ao entender quais os comandos para poder executar uma função.
